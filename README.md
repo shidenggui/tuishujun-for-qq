@@ -3,7 +3,7 @@
 
 ## 安装
 
-本身基于 [coolq-http-api](https://github.com/richardchien/coolq-http-api) 开发，只需要将该插件的 `post_url` 改为 `http://www.tuishujun.com/third/coolq` 即可
+本身基于 [coolq-http-api](https://github.com/richardchien/coolq-http-api) 开发，只需要将该插件的 `post_url` 改为 `http://api.tuishujun.com/third/coolq` 即可
 
 ## 使用方式
 
